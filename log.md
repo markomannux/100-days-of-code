@@ -26,3 +26,7 @@ Started the exercise tracker challenge in
 Seems longer than previous ones, just had the time to prepare the field!
 
 **Thoughts:** Writing down things is a long work but seems to repay in terms of clearance of mind. Plus, is quite satisfying. Trying to do it more.
+
+### Day 5: August 26, 2020
+
+**Today's Progress**:completed the APIs and Microservices challenges @freeCodeCamp and got my certificatio
