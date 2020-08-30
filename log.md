@@ -29,4 +29,26 @@ Seems longer than previous ones, just had the time to prepare the field!
 
 ### Day 5: August 26, 2020
 
-**Today's Progress**:completed the APIs and Microservices challenges @freeCodeCamp and got my certificatio
+**Today's Progress**:completed the APIs and Microservices challenges @freeCodeCamp and got my certification
+
+### Day 6: August 27, 2020
+
+**Today's Progress**: Started Quality assurance course @freecodecamp. Written a post about regex capturing groups
+
+**Thoughts:** Writing for others is really difficult but it's the best way to organize thoughts about an argument
+
+### Day 7: August 28, 2020
+
+**Today's Progress**: Still on Q&A course @freeCodeCamp Started integration with #passport Done some other interesting katas @codewars and having fun!
+
+**Thoughts:** Katas are a great way to improve skill on a programming language and learn new tricks, but I find them not really useful for actually building something
+
+### Day 8: August 29, 2020
+
+**Today's Progress**: no much progress today because, you know, weekend and a lot to do at home Still managed to put a little time on the challenge @freeCodeCamp
+
+### Day 9: August 30, 2020
+
+**Today's Progress**: Today I've made some progress on the challenge about securing an application @freecodecamp
+
+**Thoughts:** Nothing really new here, but learned something about express API: http mehods handlers callbacks can be multiple and their execution can be chained by calling next().
